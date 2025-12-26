@@ -43,9 +43,9 @@ This is just **Version 1.0**. In the future, we plan to:
 
 ---
 ### 👨‍💻 Built with ❤️ by Team Beacon
-* **Deependra Singh Solanki** 
-* **Divyansh Chaudhary** 
-* **Gurutwa Singh Shakya** 
-* **Somil jain**
+* **DEEPENDRA SINGH SOLANKI** 
+* **DIVYANSH CHAUDHARY** 
+* **GURUTWA SINGH SHAKYA** 
+* **SOMIL JAIN**
 
 *Submitted for [DevSprint By GDGoc]*
