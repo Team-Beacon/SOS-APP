@@ -43,9 +43,12 @@ This is just **Version 1.0**. In the future, we plan to:
 
 ---
 ### 👨‍💻 Built with ❤️ by Team Beacon
-* **DEEPENDRA SINGH SOLANKI** 
-* **DIVYANSH CHAUDHARY** 
-* **GURUTWA SINGH SHAKYA** 
-* **SOMIL JAIN**
+* **DEEPENDRA SINGH SOLANKI** LinkedIn-https://www.linkedin.com/in/deependra-singh-solanki-4678a8372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  
+* **DIVYANSH CHAUDHARY** LinkedIn-https://www.linkedin.com/in/divyansh-chaudhary-667a2026a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  
+* **GURUTWA SINGH SHAKYA** LinkedIn-https://www.linkedin.com/in/gurutwa-singh-s-784518389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  
+* **SOMIL JAIN**LinkedIn-https://www.linkedin.com/in/somil-jain-78359330b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 *Submitted for [DevSprint By GDGoc]*
